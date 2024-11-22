@@ -1,4 +1,4 @@
-# Order Data Analysis Project
+# Order Data Analysis Project (ETL)
 
 This repository contains the analysis of sales data from an e-commerce platform. The data was extracted from Kaggle using the Kaggle API, transformed using Python with the help of NumPy and Pandas in Jupyter Notebook, and then loaded into MySQL for further analysis.
 
